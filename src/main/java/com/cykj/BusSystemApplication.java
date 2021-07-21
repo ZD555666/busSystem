@@ -9,8 +9,8 @@ public class BusSystemApplication {
     public static void main(String[] args) {
         SpringApplication.run(BusSystemApplication.class, args);
     }
-/////
 
-    //lcyyyy
+
+    //lcy
 
 }
