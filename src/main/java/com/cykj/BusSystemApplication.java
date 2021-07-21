@@ -9,12 +9,5 @@ public class BusSystemApplication {
     public static void main(String[] args) {
         SpringApplication.run(BusSystemApplication.class, args);
     }
-/////
-    /////gjw
-    //zjj
-    //lcy
-    //123456
-//    456789
-//    7895222
-//    4568789
+//ym  haha123
 }
