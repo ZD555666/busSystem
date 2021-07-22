@@ -27,7 +27,7 @@ public class TestController {
         return "";
     }
 
-    @RequestMapping("test")//测试数据库
+    @RequestMapping("test")// 测试数据库
     public Integer test() {
         return userService.queryID();
     }
